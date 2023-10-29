@@ -7,10 +7,10 @@ import (
 	"testing"
 
 	"github.com/asaskevich/govalidator"
-	"github.com/erzaffasya/mygram/helpers"
-	mocks "github.com/erzaffasya/mygram/mocks/models"
-	"github.com/erzaffasya/mygram/models"
-	"github.com/erzaffasya/mygram/usecase"
+	"github.com/erzaffasya/Go-Tracking-Mafindo/helpers"
+	mocks "github.com/erzaffasya/Go-Tracking-Mafindo/mocks/models"
+	"github.com/erzaffasya/Go-Tracking-Mafindo/models"
+	"github.com/erzaffasya/Go-Tracking-Mafindo/usecase"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
 )

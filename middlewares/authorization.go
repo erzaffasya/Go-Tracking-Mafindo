@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/erzaffasya/mygram/models"
+	"github.com/erzaffasya/Go-Tracking-Mafindo/models"
 	"github.com/gin-gonic/gin"
 	"github.com/golang-jwt/jwt/v4"
 )

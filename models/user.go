@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/asaskevich/govalidator"
-	"github.com/erzaffasya/mygram/helpers"
+	"github.com/erzaffasya/Go-Tracking-Mafindo/helpers"
 	"gorm.io/gorm"
 )
 

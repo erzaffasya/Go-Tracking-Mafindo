@@ -3,7 +3,7 @@ package usecase
 import (
 	"context"
 
-	"github.com/erzaffasya/mygram/models"
+	"github.com/erzaffasya/Go-Tracking-Mafindo/models"
 )
 
 type userUsecase struct {

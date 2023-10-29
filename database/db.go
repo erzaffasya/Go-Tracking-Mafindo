@@ -3,7 +3,7 @@ package database
 import (
 	"fmt"
 
-	"github.com/erzaffasya/mygram/models"
+	"github.com/erzaffasya/Go-Tracking-Mafindo/models"
 	"github.com/spf13/viper"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"

@@ -5,8 +5,8 @@ import (
 	"errors"
 	"time"
 
-	"github.com/erzaffasya/mygram/helpers"
-	"github.com/erzaffasya/mygram/models"
+	"github.com/erzaffasya/Go-Tracking-Mafindo/helpers"
+	"github.com/erzaffasya/Go-Tracking-Mafindo/models"
 	"gorm.io/gorm"
 )
 

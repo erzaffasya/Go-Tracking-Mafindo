@@ -4,9 +4,9 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/erzaffasya/mygram/helpers"
-	"github.com/erzaffasya/mygram/middlewares"
-	"github.com/erzaffasya/mygram/models"
+	"github.com/erzaffasya/Go-Tracking-Mafindo/helpers"
+	"github.com/erzaffasya/Go-Tracking-Mafindo/middlewares"
+	"github.com/erzaffasya/Go-Tracking-Mafindo/models"
 	"github.com/gin-gonic/gin"
 	"github.com/golang-jwt/jwt/v4"
 )
