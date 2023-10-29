@@ -1,0 +1,15 @@
+debug: true
+
+server:
+  port: 8080
+
+database:
+  host: localhost
+  port: 5432
+  user: postgres
+  password: 2105
+  dbname: mygram
+  timezone: Asia/Jakarta
+
+jwt:
+  secret: "secret"

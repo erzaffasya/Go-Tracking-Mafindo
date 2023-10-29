@@ -1,0 +1,15 @@
+debug: true
+
+server:
+  port: 8080
+
+database:
+  host: localhost
+  port: 5432
+  user: postgres
+  password: admin
+  dbname: go_tracking
+  timezone: Asia/Jakarta
+
+jwt:
+  secret: "secret"
