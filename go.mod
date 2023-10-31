@@ -1,4 +1,4 @@
-module github.com/erzaffasya/mygram
+module github.com/erzaffasya/Go-Tracking-Mafindo
 
 go 1.19
 
